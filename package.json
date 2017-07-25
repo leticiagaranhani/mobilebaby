@@ -1,0 +1,15 @@
+{
+  "name": "servidormastertech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Hardware Livre USP",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^0.11.4",
+    "net": "^1.0.2",
+    "ngrok": "^0.2.2",
+    "os": "^0.1.1"
+  }
+}
